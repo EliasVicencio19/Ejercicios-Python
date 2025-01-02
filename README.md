@@ -1,2 +1,2 @@
-# Primer-ejercicio
-Mi primer proyecto de GitHub
+# Ejercicios Python
+Todos los ejercicios realizados en el semestre
